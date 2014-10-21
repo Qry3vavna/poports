@@ -131,6 +131,18 @@ EXAMPLES:
     Grabs the top 100 ports of all protocols and prints them to stdout
       using a ',' as delimiter between service,port,protocol
 
+
+LICENSE:
+    Apache 2.0 :
+      Required:		- Include license and copyright notice
+			- State any changes made from this code
+
+      Permitted:	- Use commercially	- Grant patents
+			- Ditribute		- Use privately
+			- Modify		- Sublicense
+
+      Forbidden:	- Hold us liable
+			- Use trademark
 EOF
 exit 0
 }
